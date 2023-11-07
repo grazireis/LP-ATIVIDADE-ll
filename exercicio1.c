@@ -16,7 +16,7 @@ int tempo;
 
  system("cls || clear");
 
- printf("O clima atual é %d \n",tempo);
+ printf("O clima atual Ã© %d \n",tempo);
 
  if (tempo >= 25)
  {
